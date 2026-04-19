@@ -1,0 +1,5 @@
+Run locally:
+npm install && npm run dev
+
+Update Page:
+git commit -am "." && git push
