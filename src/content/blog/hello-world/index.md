@@ -8,4 +8,4 @@ Welcome to my blog! This is my first post.
 
 You can add images to this folder and reference them with a relative path:
 
-![Example image](./example.jpg)
+<!-- ![Example image](./example.jpg) -->
