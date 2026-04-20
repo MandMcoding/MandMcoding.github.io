@@ -34,6 +34,8 @@ Tyler, Volleyball gang, TF2 gang! Now Erdem and Regan
 
 	Also I like how tired it makes me. It really puts a strian on the body and without proper stretching and warmup your cooked
 
+	I love to dance and do cartwheels while waiting in volleyball, and making jokes with tyler, like last week, kaitlin said she was shocked ceren was a grad student since she looks so young, and I was like o no way, if thats true then I need to widen my dating range on tinder xd and this week I was joke flirting with the new guy Matt and I was setting to tyler and matt and i said, ok your matt and (pointing to tyler) cutiepie xd, and paige laughed and was like I thought his name was tyler! and once I blocked the ball but touched the net and i did the sush symbol so no one notices/says i touched the net and ppl/yuka was laughing xd
+
 - Systems with Erdem
 
 	Honestly I was so chilled and didn't really care for systems, i couldn't tell if i was tired or what. I took adderall but I think once i got there it wore off and all the energy i spent at volleyball/waffle house I just had no energy left. But I enjoyed my time and felt fvery peacefull. The sun was beautiful in their apartment and regan seemed joyful. It was good. :s[I resisted telling them both about ariyan which i was happy about] She offered her homemade brats which is cool but I wasn't really feeling it so I ate one which was kale and potatos and it was amazing but i was too chill to express it, and I was happy with just one.
@@ -90,26 +92,4 @@ Thoughts:
 - I want to learn how to make fatayer, and arabic bread!!! great gifts and very usefull.
 - I fucking love cashews from lebanon
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I couldn't sleep until 12 :( and I then woke up at 7, but it's ok I feel good, I just didn't feel tired enough at night to crash into sleep.
