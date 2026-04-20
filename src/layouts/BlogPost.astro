@@ -6,11 +6,12 @@ interface Props {
   description: string;
   pubDate: Date;
   updatedDate?: Date;
+  secret?: boolean;
 }
 
-const { title, description, pubDate, updatedDate } = Astro.props;
+const { title, description, pubDate, updatedDate, secret } = Astro.props;
 ---
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} secret={secret}>
   <article>
     <h1>{title}</h1>
     <time datetime={pubDate.toISOString()}>

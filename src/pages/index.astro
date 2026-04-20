@@ -3,12 +3,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
-const posts = (await getCollection('blog')).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+const allPosts = (await getCollection('blog'))
+  .filter((p) => !p.data.secretOnly)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const posts = allPosts.filter((p) => p.data.category !== 'recipe');
+const recipes = allPosts.filter((p) => p.data.category === 'recipe');
 ---
 <BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
-  <h1>Posts</h1>
+  <h2 id="blog">Posts</h2>
   <ul>
     {posts.map((post) => (
       <li>
@@ -21,4 +23,21 @@ const posts = (await getCollection('blog')).sort(
       </li>
     ))}
   </ul>
+  <h2 id="recipes">Recipes</h2>
+  {recipes.length === 0 ? (
+    <p>No recipes yet.</p>
+  ) : (
+    <ul>
+      {recipes.map((post) => (
+        <li>
+          <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+          &mdash;
+          <time datetime={post.data.pubDate.toISOString()}>
+            {post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </time>
+          <p>{post.data.description}</p>
+        </li>
+      ))}
+    </ul>
+  )}
 </BaseLayout>

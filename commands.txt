@@ -3,3 +3,24 @@ npm install && npm run dev
 
 Update Page:
 git commit -am "." && git push
+
+Example MD Header:
+
+---
+title: 'My Private Thoughts'
+description: 'A secret entry'
+pubDate: 'Apr 19 2026'
+secretOnly: true
+---
+
+Public content here.
+
+:::s
+My private diary thoughts.
+:::
+
+More public content. :s[JK]
+
+Usefull Links:
+https://www.freeformatter.com/html-entities.html
+markdown-guide.pdf

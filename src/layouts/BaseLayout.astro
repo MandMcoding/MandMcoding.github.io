@@ -4,9 +4,10 @@ import { SITE_TITLE } from '../consts';
 interface Props {
   title: string;
   description?: string;
+  secret?: boolean;
 }
 
-const { title, description } = Astro.props;
+const { title, description, secret = false } = Astro.props;
 ---
 <!doctype html>
 <html lang="en">
@@ -18,11 +19,16 @@ const { title, description } = Astro.props;
     <meta name="generator" content={Astro.generator} />
     {description && <meta name="description" content={description} />}
     <title>{title}</title>
+    <style is:global>
+      .secret-content { display: none; }
+    </style>
+    {secret && <style is:global>div.secret-content { display: block; font-family: monospace; } span.secret-content { display: inline; font-family: monospace; } .secret-content, .secret-content * { background: linear-gradient(90deg, #cc44ff, #00cc66, #3399ff, #cc44ff); background-size: 200% auto; background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: shimmer 3s linear infinite; } @keyframes shimmer { to { background-position: 200% center; } }</style>}
   </head>
   <body>
     <header>
       <nav>
         <a href="/">{SITE_TITLE}</a>
+        <a href="/#recipes">Recipes</a>
         <a href="/rss.xml">RSS</a>
       </nav>
     </header>
