@@ -12,7 +12,7 @@ I woke up and I had one plan for that day, have dinner with my friends :s[kiymet
 
 I first woke up at 6:30 am and took this picture of the sunrise :s[and sent it to ariyan]. then i went back to bed. 
 
-![sunrise](./sunrise.jpg)
+<!--![sunrise](./sunrise.jpg)-->
 
 ### My plan was simple but long
 - gym &rarr; shower &rarr; clean room &rarr; prep myself/stuff for dinner &rarr; go to school to study/work &rarr; dinner &rarr; tf2!! &rarr; sleep happy :D
