@@ -1,7 +1,7 @@
 ---
 title: 'Recap of 3rd Week of April!'
 description: 'Big stuff'
-pubDate: 'Apr 19/20 2026'
+pubDate: 'Apr 20 2026'
 ---
 
 Going backwards from today (sunday/monday)
