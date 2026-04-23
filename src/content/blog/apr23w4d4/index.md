@@ -1,10 +1,10 @@
 ---
-title: ''
-description: ''
+title: 'Cooked but good'
+description: 'Chill day as any day with 3 hours of sleep'
 pubDate: 'Apr 23 2026'
 ---
 
-I just woke up at 6 AM
+I just woke up at 6 AM. Couldn't sleep bc adderall from night before so like around 3 am (got home at 1)
 
 # Plan
 - Study / Prep for combinatorics exam, print cheatsheet and whatnot
