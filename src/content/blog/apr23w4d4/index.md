@@ -47,6 +47,4 @@ Basically:
 - Start studying supa early, like for systems, I will break up what I need to study and dedicate a whole day for each thing. For combo same thing but I want to basically redo all the homeworks/quizes as well as the practice exams.
 - SLEEP MAXXING, basically no adderall for 3 days before the exam and exersize in order to get myself to sleep early and wake up at the same time. day of the exam take adderall iff i dont have a following exam.
 
-I'll see how that works out lol.
-
-
+I'll see how that works out lol. I think the questions were both a little too hard and i didn't have enough time to play around, compared to practicing and studying so much that I just copy the solution.
