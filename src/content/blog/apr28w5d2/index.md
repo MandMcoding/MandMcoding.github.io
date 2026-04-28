@@ -21,8 +21,20 @@ pubDate: 'Apr 28 2026'
 - exersize today: push ups, sit ups, pull ups, plank (so i can sleep)
 - Sleep at 10! 
 
-## Other todo
+## Lock in todo
 - ~~linux~~
 - IEM
 - systems
+	- yesterday's work
+		- video
+		- spec
+		- plan out
+	- today
+		- clone
+		- start
+- Linux study
+	- break down course / studying
+	- learn enough to understand next lectures
+	- learn past projects/ex
+	- start next prj/ex
 - credit card
