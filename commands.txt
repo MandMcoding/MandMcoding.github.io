@@ -11,6 +11,7 @@ title: 'My Private Thoughts'
 description: 'A secret entry'
 pubDate: 'Apr 19 2026'
 secretOnly: true
+category: 'recipe'
 ---
 
 Public content here.
