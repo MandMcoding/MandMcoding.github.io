@@ -38,3 +38,9 @@ pubDate: 'Apr 28 2026'
 	- learn past projects/ex
 	- start next prj/ex
 - credit card
+
+
+## Reflections
+I found that although I slept poorly, (waking up 4 times, from 10pm-7:30am), I napped/lied down 3 times which helped me get through the day without wanting to shoot myself. lieing down is the goat manuever, can't study, lie down, feeling tired, lie down, hungry, lie down, overthinking, lie down, stressed, lie down.
+
+Also not eating breakfast and rejecting food throughout they day worked to supress my apitite even though I was tired and not on adderall, I realize again that I might think I'm hungry bc i want to eat but in reality I just enjoy eating which is good but I dont need to eat. I think i'll be eating after class nowadays.
