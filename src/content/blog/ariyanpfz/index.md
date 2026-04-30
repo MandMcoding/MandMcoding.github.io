@@ -20,3 +20,25 @@ And there's this feeling of shame/unfortunate that I won't be able to go on date
 Yknow what I describe as ignored, or even indifferent, from ariyan, is kinda like when I was talking to hannah on the phone about all the things I've done for ariyan, and every little thing hannah was like, awwww, and that's so sweet and cute, and whatnot, that is explicit feedback that atleast hannah is giving to me on how she would feel if she was in ariyans shoes, but ariyan doesn't give this feedback. which is why I was repeatedly telling hannah that is nice to hear her reaction.
 
 Also I have to be honest and I want ariyan to like me, I want her to laugh at my jokes but I can't naturally do the sense of humor she likes where you are teesey, since I like her and kiymet too much, I can't say anything bad to them.
+
+
+
+
+
+
+
+
+
+
+
+
+So after ISF and hanging out, Ariyan drove me home. In ISF I was recognized by Yazan, the random neuroscience major I recognize, who is good friends with ariyan, poggers ok. I was also recognized by Zaki, the afgan fella, and Ariyan was tweaking about that before the performance and I explained to her that I just wave to him when I see him. I thought he was the ex she mentioned, but in the car she explained that him and her were obsessed with eachother but then they crashed and burned but he was really respectful but she messed up or something idk the details but she kept asking if I was ok with hearing about it. And tbh I couldn't say at the time, I just wanted her to feel like she can express herself comfortably and consentually, so that's what I told her. Now after a day/two i realize that 1. I want to know how she became obsessed with him, out of curiosity and out of this other subfact 1a. I HAVE NO FUCKING CLUE HOW TO GET A GIRLFRIEND. like I ong gave up since I'm back to square one since I'm officially moving on even though interally I might want otherwise. so thus, I feel that no girl has ever ever shown genuine interest to become by good friend and
+
+
+Stages of relationships with others:
+don't know
+recognize - waveable, don't know basic info (can be considered as a light friend)
+friend - you like this person and you like to spend time with them but you are always putting more effort then them
+good friend - this person puts equal or more effort, they reach out and you reach out.
+best friend | partner
+	- you naturally spend all your time with this person.
