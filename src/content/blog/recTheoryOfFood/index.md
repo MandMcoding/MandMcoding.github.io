@@ -68,3 +68,16 @@ TBH arabic bread doesn't need a sub, just get a whole/fiber arabic bread or maro
 - Canned Beans/Veggies/Lentils
 - Eggs, Oats
 - Indian Minute Meals
+
+# Cooking Strats
+- Slop pot
+	You just put everything in a pot and boil it into a slop
+- Big Batch Oven
+	See weekend eating strat
+	- Instant Pot as an alternative method
+	- Air frying as an alternative method
+- Microwave Princess
+	Toss the easy things listen above in a bowl then microwave
+- Frying Gigachad
+	Toss ingredients in pan and fry them
+	- Egg alternative method, egg as base, and add whatever ingredients you want to it
