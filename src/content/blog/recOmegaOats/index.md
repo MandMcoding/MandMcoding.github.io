@@ -5,7 +5,7 @@ pubDate: 'Apr 29 2026'
 category: 'recipe'
 ---
 
-# Simple Version
+# Simple Version (omega oats v1)
 
 ## Ingredients
 
@@ -36,12 +36,13 @@ You can optionally do this without microwaving and instead keep it in the fridge
 ## Ingredients
 
 - eggs
+- oats
 - bone broth or water or green tea
 - chia seeds, ground flaxseeds
 - apple cider vinegar or lemon juice
 - mashed canned cannellini beans/chickpeas
 - frozen: rice cauliflower, peas, kale, spinach, veggies Artichoke Hearts
-- garlic powder, tumeric, nutritional yeast, mushroom powder 
+- garlic/onion powder, tumeric, nutritional yeast, mushroom powder 
 msg is subbed with seaweed, yeast, mushroom, tomatoes, bone broth
 salt is subbed with miso paste, olives, seaweed, bone broth
 [ microwave ]
@@ -180,7 +181,17 @@ _Focus: Fragrant, filling, and anti-inflammatory._
     The Finisher: A squeeze of Lemon Juice (essential to brighten the turmeric).
 
 
-
+## Current May Version
+- eggs
+- water
+- flaxseeds, chia seeds, oats
+- Apple cider vinegar or any acidic thing
+- salt, pepper, msg, garlic/onion powder, tumeric
+Nuke
+- walnuts and pumkin seeds
+- optional lemon juice if no ACV
+- Miso
+- olive oil, greek yogurt
 
 
 # Good Bases:
